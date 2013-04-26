@@ -1,6 +1,6 @@
 my-sublime-packages
 ===================
-A backup of the sublime packages I use.
+A backup of the sublime packages and settings I use.
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
     git init .

@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"Haml",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
